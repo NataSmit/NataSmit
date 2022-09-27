@@ -1,4 +1,14 @@
-### Hi there 👋
+<h2> Hi, I'm junior front-end developer <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="50"></h2>
+
+### <img src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=790b7611eb20229dcbb5609191742920118c93c053137df0&rid=giphy.gif&ct=g" width="50"> A little more about me...  
+
+```javascript
+const natalia = {
+  code: [JavaScript, HTML, CSS],
+  tools: [React],
+  plans: ["get experience in a greate team", "write clean code", "learn TypeScript"]
+}
+```
 
 <!--
 **NataSmit/NataSmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
