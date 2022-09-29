@@ -1,12 +1,13 @@
-<h2 style="text-align:center"> Hi, I'm junior front-end developer <img src="https://media4.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47ikasesu87h8f45t34ogg6y0xqw80sae1lc0zge0p&rid=giphy.gif&ct=g" width="70"></h2>
+<h2 style="text-align:center"> Привет, я начинающий фронтенд-разработчик <img src="https://media4.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47ikasesu87h8f45t34ogg6y0xqw80sae1lc0zge0p&rid=giphy.gif&ct=g" width="70"></h2>
 
-### <img src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=790b7611eb20229dcbb5609191742920118c93c053137df0&rid=giphy.gif&ct=g" width="80"> A little more about me...  
+### <img src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=790b7611eb20229dcbb5609191742920118c93c053137df0&rid=giphy.gif&ct=g" width="80"> О себе...  
 
 ```javascript
 const natalia = {
   code: [JavaScript, HTML, CSS],
   tools: [React],
-  plans: ["get experience in a greate team", "write clean code", "learn TypeScript"]
+  purpose: ["get experience in a greate team", "write clean code", "learn TypeScript"],
+  currentlyLearning: "Redux"
 }
 ```
 
