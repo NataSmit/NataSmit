@@ -13,7 +13,7 @@ const natalia = {
 
 ### 📝 Проекты в рамках курса "Web-разработчик" Я.Практикум:
 
-- Спринт 1-2 - [How to learn](https://github.com/NataSmit/how-to-learn){:target="_blank"}
+- Спринт 1-2 - [How to learn](https://github.com/NataSmit/how-to-learn/?target=_blank)
 - Спринт 3 - [Russian travel](https://github.com/NataSmit/russian-travel)
 - Спринт 4-5-6-7-8-9 - [Mesto](https://github.com/NataSmit/mesto)
 - Спринт 10-11-12 - [Mesto](https://github.com/NataSmit/react-mesto-auth) (React + auth)
