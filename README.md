@@ -16,7 +16,6 @@ const natalia = {
 - Спринт 1-2 - [How to learn](https://github.com/NataSmit/how-to-learn)
 - Спринт 3 - [Russian travel](https://github.com/NataSmit/russian-travel)
 - Спринт 4-5-6-7-8-9 - [Mesto](https://github.com/NataSmit/mesto)
-- Спринт 10-11-12 - [Mesto](https://github.com/NataSmit/react-mesto-auth) (React + auth)
 - Спринт 13-14 - [Mesto](https://github.com/NataSmit/express-mesto-gha) (Backend for Mesto)
 - Спринт 15 - [Mesto Fullstack](https://github.com/NataSmit/react-mesto-api-full) (Mesto fullstack)
 - [Дипломная работа](https://github.com/NataSmit/movies-explorer-frontend/tree/level-3) (Movies explorer)
