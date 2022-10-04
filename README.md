@@ -18,7 +18,9 @@ const natalia = {
 - Спринт 4-5-6-7-8-9 - [Mesto](https://github.com/NataSmit/mesto)
 - Спринт 13-14 - [Mesto](https://github.com/NataSmit/express-mesto-gha) (Backend for Mesto)
 - Спринт 15 - [Mesto Fullstack](https://github.com/NataSmit/react-mesto-api-full) (Mesto fullstack)
-- [Дипломная работа](https://github.com/NataSmit/movies-explorer-frontend/tree/level-3) (Movies explorer)
+- [Дипломная работа](https://github.com/NataSmit/movies-explorer-frontend/tree/level-3) (Movies explorer)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataSmit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NataSmit/NataSmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
