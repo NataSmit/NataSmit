@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=790b7611eb20229dcbb5609191742920118c93c053137df0&rid=giphy.gif&ct=g" width="150"> 
 <div>  
-<a href="mailto:gorobzova_natalia@mail.ru" target="_blank">
+<a href=mailto:gorobzova_natalia@mail.ru target="_blank">
 <img src="https://img.shields.io/badge/mail-2CA5E0?style=for-the-badge&logo=mail.ru&logoColor=white" alt=mail />
 </a>  
 <a href="http://wa.me/+79065825690" target="_blank">
