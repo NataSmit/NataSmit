@@ -1,4 +1,5 @@
-<h2 style="text-align:center"> Привет, я начинающий фронтенд-разработчик <img src="https://media4.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47ikasesu87h8f45t34ogg6y0xqw80sae1lc0zge0p&rid=giphy.gif&ct=g" width="70"></h2>
+<h2 style="text-align:center"> Привет, я начинающий фронтенд-разработчик <img src="https://media4.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47ikasesu87h8f45t34ogg6y0xqw80sae1lc0zge0p&rid=giphy.gif&ct=g" width="70"></h2>  
+- - - -
 
 <div align="center">
 <img src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=790b7611eb20229dcbb5609191742920118c93c053137df0&rid=giphy.gif&ct=g" width="200"> 
