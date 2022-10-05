@@ -23,6 +23,7 @@ const natalia = {
 ```
 
 ### 📝 Проекты в рамках курса "Web-разработчик" Я.Практикум:
+- - - - - - 
 
 - Спринт 1-2 - [How to learn](https://github.com/NataSmit/how-to-learn)
 - Спринт 3 - [Russian travel](https://github.com/NataSmit/russian-travel)
@@ -31,10 +32,9 @@ const natalia = {
 - Спринт 15 - [Mesto Fullstack](https://github.com/NataSmit/react-mesto-api-full) (Mesto fullstack)
 - [Дипломная работа](https://github.com/NataSmit/movies-explorer-frontend/tree/level-3) (Movies explorer)  
 
-### :bar_chart: Моя статистика
-
-  
-  
+### :bar_chart: Моя статистика  
+- - - - - - 
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataSmit&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataSmit&show_icons=true&theme=swift&hide=stars,contribs)
 
