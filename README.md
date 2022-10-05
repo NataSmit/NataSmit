@@ -8,7 +8,7 @@
 <a href='mailto:gorobzova_natalia@mail.ru' target="_blank">
 <img src="https://img.shields.io/badge/mail-2CA5E0?style=for-the-badge&logo=mail.ru&logoColor=white" alt=mail />
 </a>  
-[![mail](https://img.shields.io/badge/mail-2CA5E0?style=for-the-badge&logo=mail.ru&logoColor=white)](<gorobzova_natalia@mail.ru>)
+![mail](https://img.shields.io/badge/mail-2CA5E0?style=for-the-badge&logo=mail.ru&logoColor=white)<gorobzova_natalia@mail.ru>
 <a href="http://wa.me/+79065825690" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" />
 </a>
