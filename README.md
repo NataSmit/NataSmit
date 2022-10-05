@@ -15,8 +15,8 @@
 </div> 
 
 </div>  
-![mail](https://img.shields.io/badge/mail-2CA5E0?style=for-the-badge&logo=mail.ru&logoColor=white)<gorobzova_natalia@mail.ru>
-```javascript
+
+```
 const natalia = {
   code: [JavaScript, HTML, CSS],
   tools: [React],
