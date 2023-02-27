@@ -21,7 +21,7 @@ const natalia = {
   code: [JavaScript, HTML, CSS],
   tools: [React],
   currentlyLearning: [Redux, TypeScript],
-  purpose: ["get experience in a greate team", "write clean code"]
+  purpose: ["take part in creation of great products", "get experience in a greate team", "write clean code", "continuous improvement"]
 }
 ```
 
